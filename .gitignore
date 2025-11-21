@@ -9,3 +9,6 @@ tmp/
 wav2vec2-base-960h/
 wav2vec-english-speech-emotion-recognition/
 results/
+
+checkpoints/wav2vec-english-speech-emotion-recognition/
+checkpoints/wav2vec2-base-960h/
