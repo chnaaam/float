@@ -12,3 +12,7 @@ results/
 
 checkpoints/wav2vec-english-speech-emotion-recognition/
 checkpoints/wav2vec2-base-960h/
+
+ref_image.jpeg
+voice-only.wav
+voice-only-1minute.wav
